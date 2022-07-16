@@ -1,41 +1,37 @@
 # 📔StdLib 
 An E-Commerece Application maded with `React.js` where you can read books of your interest.
 
-### 🔥This project contains the Mock Backend created for E-Commerce App. It contains different API end-points and database configuration for building E-Commerce.
-
-## Folder Structure
-![file structure of StdLib react](https://user-images.githubusercontent.com/56014170/161381929-0aff7f6b-f7d1-4758-9b10-e6bdcacbcbd8.gif)
-
 
 ## 💜Features of App
 
-🚀 #### Landing Page from where users can go to all other pages
-🚀 #### Landing Page has Category portion which shows diiferent catgories of books, user can visit of their interest
-🚀 #### Product List Page has filters, user can apply filters of their choice
-🚀 #### User can add products to wishlist or Add to the Cart 
-🚀 #### From wishlist, user can add the Items to the Add to Cart and vice-versa
-🚀 #### Billing Page for total sum of Items 
+Landing Page from where users can go to all other pages
+Landing Page has Category portion which shows diiferent catgories of books, user can visit of their interest
+Product List Page has filters, user can apply filters of their choice
+User can add products to wishlist or Add to the Cart 
+From wishlist, user can add the Items to the Add to Cart and vice-versa
+Billing Page for total sum of Items 
 
 
 # Landing Page
-![image](https://user-images.githubusercontent.com/56014170/161382656-2b3d3dc5-ce1a-4056-96dd-6c1ed6dc711e.png)
+![image](![Screenshot (11)](https://user-images.githubusercontent.com/62882531/179366860-f5f94a8a-c3a8-4ca8-972c-75bd83af1435.png)
+)
 
 
 # Categories of Book
-![image](https://user-images.githubusercontent.com/56014170/161383074-72953e61-1c84-43bf-9aab-5e28f547a41e.png)
+![image](![Screenshot (15)](https://user-images.githubusercontent.com/62882531/179366885-d045b660-7e94-428d-9e7e-9c57ef1a6b69.png))
+
 
 
 # Wishlist Page
-![wishlist functionality](https://user-images.githubusercontent.com/56014170/161383109-1ec8a371-4a73-4167-9774-6ac6ccfe3127.gif)
+![wishlist functionality](![Screenshot (19)](https://user-images.githubusercontent.com/62882531/179366935-b94f65f5-af11-455b-8969-55e79ac68772.png))
 
-# Empty Wishlist 
-![image](https://user-images.githubusercontent.com/56014170/161383147-c9bc8633-b316-4ee7-8701-a8f219e54376.png)
+
 
 # Add To Cart Page
-![cart StdLib react](https://user-images.githubusercontent.com/56014170/161383853-58c0fbbf-ca5f-4222-9eb8-8541a1b3c119.gif)
+![cart StdLib react](![Screenshot (21)](https://user-images.githubusercontent.com/62882531/179366980-2c428402-7dfa-41da-92bd-af8dcd1894c2.png)
+)
 
 # Single Product Page
-![single product page ](https://user-images.githubusercontent.com/56014170/161629599-2aa3d020-d753-499d-9765-8df2d499cbef.gif)
+![single product page ](![Screenshot (16)](https://user-images.githubusercontent.com/62882531/179366997-2c2af7a0-7aab-4564-8467-c2ce1101f909.png)
+)
 
-🎯It is fully responsive in nature and fulfills varoius accessibilities parameters.
-🎯Made with React JS library⭐
