@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/E-commerce_BookStore_CipherSchools/static/css/main.2a638e62.css",
+    "main.js": "/E-commerce_BookStore_CipherSchools/static/js/main.aabcf7fe.js",
+    "static/media/background-image.png": "/E-commerce_BookStore_CipherSchools/static/media/background-image.63c8d1424f8f5a129341.png",
+    "static/media/AddtoCart.png": "/E-commerce_BookStore_CipherSchools/static/media/AddtoCart.23cebdd901ec57651025.png",
+    "static/media/empty-wishlist.png": "/E-commerce_BookStore_CipherSchools/static/media/empty-wishlist.96f6cf76475f91e82423.png",
+    "static/media/page_not_found.png": "/E-commerce_BookStore_CipherSchools/static/media/page_not_found.48cbe27280cf495eaf8c.png",
+    "static/media/book13.jpg": "/E-commerce_BookStore_CipherSchools/static/media/book13.8fcf4adf339bc9aca0d4.jpg",
+    "index.html": "/E-commerce_BookStore_CipherSchools/index.html",
+    "main.2a638e62.css.map": "/E-commerce_BookStore_CipherSchools/static/css/main.2a638e62.css.map",
+    "main.aabcf7fe.js.map": "/E-commerce_BookStore_CipherSchools/static/js/main.aabcf7fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a638e62.css",
+    "static/js/main.aabcf7fe.js"
+  ]
+}
